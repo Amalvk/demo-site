@@ -10,4 +10,7 @@ this will validate the data weather already exist through the given api
 
 ![image](https://user-images.githubusercontent.com/55309949/203786533-e274ffee-2daa-4bfe-9d6b-0f9316150449.png)
 
+![image](https://user-images.githubusercontent.com/55309949/203787151-23de0d33-371a-40f2-9998-383a4610a185.png)
+
+![image](https://user-images.githubusercontent.com/55309949/203787226-1e671afa-fe68-49a8-ab05-cdc4ae24a67e.png)
 
