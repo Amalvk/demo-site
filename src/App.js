@@ -71,7 +71,6 @@ function App() {
         <Route exact path="/previousaddress" element={<PreviousAddress/>}/>
       </Routes> 
         
-
       <Footer/>
     </BrowserRouter>
     </AppContext.Provider>
